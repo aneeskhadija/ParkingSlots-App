@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\tt\\Parking_Slots\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "E:\\tt\\Parking_Slots\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "E:\\tt\\Parking_Slots\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\tt\\Parking_Slots\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\tt\\Parking_Slots\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_second.xml",
+        "source": "E:\\tt\\Parking_Slots\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]

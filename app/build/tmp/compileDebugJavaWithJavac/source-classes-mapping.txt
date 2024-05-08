@@ -1,0 +1,32 @@
+com/example/task/BuildConfig.java
+ com.example.task.BuildConfig
+com/example/task/VolleySingleton.java
+ com.example.task.VolleySingleton
+com/example/task/MapsModel.java
+ com.example.task.MapsModel
+com/example/task/Notify.java
+ com.example.task.Notify
+com/example/task/databinding/ActivityMainBinding.java
+ com.example.task.databinding.ActivityMainBinding
+com/example/task/MediaObserver.java
+ com.example.task.MediaObserver
+ com.example.task.MediaObserver$1
+com/example/task/databinding/ActivitySecondBinding.java
+ com.example.task.databinding.ActivitySecondBinding
+com/example/task/MyServices.java
+ com.example.task.MyServices
+ com.example.task.MyServices$1
+com/example/task/SecondActivity.java
+ com.example.task.SecondActivity
+com/example/task/databinding/ActivityMapsBinding.java
+ com.example.task.databinding.ActivityMapsBinding
+com/example/task/MainActivity.java
+ com.example.task.MainActivity
+ com.example.task.MainActivity$1
+ com.example.task.MainActivity$2
+ com.example.task.MainActivity$3
+ com.example.task.MainActivity$4
+ com.example.task.MainActivity$5
+com/example/task/MapsActivity.java
+ com.example.task.MapsActivity
+ com.example.task.MapsActivity$1
